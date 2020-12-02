@@ -1,0 +1,22 @@
+--- !ruby/object:Tiger
+user_login: jioij
+name: ji
+health: 6
+asleep: true
+feed_level: 6
+fullness: 12
+water_level: 6
+energy: 7
+mood: 4
+lives: 3
+states:
+- health = 6
+- feed_level = 6
+- water_level = 6
+- energy = 7
+- mood = 4
+response:
+- You put your pet to bed.
+- ji wants to go to the toilet.
+- ji bored.
+img: "&#128564;"

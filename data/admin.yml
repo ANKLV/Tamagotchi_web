@@ -1,0 +1,17 @@
+--- !ruby/object:Panda
+user_login: admin
+name: jygfj
+health: 5
+feed_level: 5
+water_level: 5
+energy: 5
+mood: 5
+lives: 3
+states:
+- health = 5
+- feed_level = 5
+- water_level = 5
+- energy = 5
+- mood = 5
+response: []
+emoji: '&#128522;'

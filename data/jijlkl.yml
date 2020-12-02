@@ -1,0 +1,19 @@
+--- !ruby/object:Panda
+user_login: jijlkl
+name: '444'
+health: 10
+asleep: false
+feed_level: 6
+fullness: 0
+water_level: 6
+energy: 10
+mood: 6
+lives: 3
+states:
+- health = 10
+- feed_level = 6
+- water_level = 6
+- energy = 10
+- mood = 6
+response: []
+img: "&#128522;"

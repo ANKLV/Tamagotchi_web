@@ -1,0 +1,24 @@
+--- !ruby/object:Panda
+user_login: fhfhfh
+name: Bro
+health: 10
+asleep: false
+feed_level: 6
+fullness: 0
+water_level: 6
+energy: 8
+mood: 6
+lives: 2
+states:
+- health = 0
+- feed_level = -1
+- water_level = -1
+- energy = -5
+- mood = 5
+response:
+- - You see a panda walking back and forth looking for something to do.
+- Bro feels bad.
+- Bro wants to eat.
+- Bro wants to drink.
+- Bro wants to sleep.
+img: "&#128128;"

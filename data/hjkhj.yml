@@ -1,0 +1,23 @@
+--- !ruby/object:Panda
+user_login: hjkhj
+name: ff
+health: 3
+asleep: false
+feed_level: 10
+fullness: 5
+water_level: -2
+energy: 0
+mood: 5
+lives: 3
+states:
+- health = 3
+- feed_level = 10
+- water_level = -2
+- energy = 0
+- mood = 5
+response:
+- You fed your pet.
+- ff feels bad.
+- ff wants to drink.
+- ff wants to sleep.
+img: "&#128525;"
